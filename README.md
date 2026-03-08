@@ -8,7 +8,7 @@
 > An end-to-end Machine Learning pipeline to predict customer churn with **92% accuracy** using Random Forest and Logistic Regression models.
 
 ---
-
+🚀 Live Demo: https://huggingface.co/spaces/shaik4144/customer-churn-prediction
 ## 🚀 Project Overview
 
 Customer churn is one of the biggest challenges in business. This project builds a complete ML pipeline that:
